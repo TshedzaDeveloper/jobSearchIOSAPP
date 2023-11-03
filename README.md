@@ -264,3 +264,4 @@ Need help or have questions?
 **Made with ❤️ by Tshedzane Developer for the South African job market**
 
 *Last updated: November 2023*
+Update 2
