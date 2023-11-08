@@ -265,3 +265,4 @@ Need help or have questions?
 
 *Last updated: November 2023*
 Update 2
+Update 7
