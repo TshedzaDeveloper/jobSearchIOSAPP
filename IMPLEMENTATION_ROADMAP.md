@@ -312,3 +312,4 @@ This gets you a functional app in the market within 1-2 months!
 **Ready to implement? Let's start with Firebase setup and authentication!** Enhancement 4
 Enhancement 9
 Enhancement 14
+Enhancement 19
