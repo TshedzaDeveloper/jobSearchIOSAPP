@@ -313,3 +313,4 @@ This gets you a functional app in the market within 1-2 months!
 Enhancement 9
 Enhancement 14
 Enhancement 19
+Enhancement 24
